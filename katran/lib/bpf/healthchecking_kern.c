@@ -19,7 +19,7 @@
 #include <linux/ipv6.h>
 #include <linux/pkt_cls.h>
 #include <linux/string.h>
-#include <linux/udp.h>
+#include <netinet/udp.h>
 
 #include "bpf.h"
 #include "bpf_helpers.h"

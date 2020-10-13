@@ -19,7 +19,7 @@
 
 #include <linux/ip.h>
 #include <linux/ipv6.h>
-#include <linux/udp.h>
+#include <netinet/udp.h>
 #include <string.h>
 
 #include "balancer_consts.h"

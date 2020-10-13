@@ -28,7 +28,7 @@
 #include <linux/icmpv6.h>
 #include <stddef.h>
 #include <linux/tcp.h>
-#include <linux/udp.h>
+#include <netinet/udp.h>
 #include <linux/if_ether.h>
 #include <linux/ptrace.h>
 #include <stdbool.h>
